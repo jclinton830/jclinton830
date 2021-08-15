@@ -15,19 +15,11 @@
 
 ### Languages
 
-![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
 ![](https://img.shields.io/badge/ES6-Javascript-informational?style=for-the-badge&logo=JavaScript&color=f7d71e)
 ![](https://img.shields.io/badge/TS-TypeScript-informational?style=for-the-badge&logo=TypeScript&color=3178c6)
 ![](https://img.shields.io/badge/HTML5-HTML-informational?style=for-the-badge&logo=HTML5&color=e34f26)
 
-### Tech Stack
-#### Favorite Stack
-![](https://img.shields.io/badge/React.JS-ClientSide-informational?style=for-the-badge&logo=react&color=61dafb)
-![](https://img.shields.io/badge/Express.JS-ServerSide-informational?style=for-the-badge&logo=express&color=db7b1b)
-![](https://img.shields.io/badge/Node.JS-ServerSide-informational?style=for-the-badge&logo=node.js&color=339933)
-![](https://img.shields.io/badge/MongoDB-Database-informational?style=for-the-badge&logo=mongoDB&color=47a248)
-
-*****
 
 #### Contact Me
 :envelope: jerome@sproutscientific.com
