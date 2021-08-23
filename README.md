@@ -2,7 +2,7 @@
 **jclinton830/jclinton830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-> Robotics Engineer and Photography Enthusiast I also dabble in a bit of web dev
+> Robotics Engineer and Photography Enthusiast. I also dabble in a bit of web dev :)
 
 ### Current Projects
 #### [Komatsu Mining Coorp](https://komatsu.com) 
