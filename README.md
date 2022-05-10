@@ -36,5 +36,5 @@
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 #### Contact Me
 :envelope: jerome@sproutscientific.com
-:envelope: jerome.justin@komatsu.com
+:envelope: jerome.justin@sydney.edu.au
 :envelope: info@byjeromeo.com
