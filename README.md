@@ -7,7 +7,7 @@
 ### Current Projects
 #### [University of Sydeny - ACFR](https://www.sydney.edu.au/engineering/our-research/robotics-and-intelligent-systems/australian-centre-for-field-robotics.html) 
 #### [Sprout Scientific](https://sproutscientific.com) 
-#### [byJeromeo](https/instagram.com/byjeromeo)
+#### [byJeromeo](https://www.byjeromeo.com)
 
 ### Languages
 
